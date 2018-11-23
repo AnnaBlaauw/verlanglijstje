@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class ListController extends Controller
 {
-    public finction create(request $request)
+    public function create(request $request)
     {
         return $request->all();
     }
