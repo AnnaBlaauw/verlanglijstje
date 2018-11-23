@@ -1,0 +1,21 @@
+.navbar-laravel {
+    background-color: burlywood;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+   
+  }
+
+body {
+
+background-color: url("C:\verlanglijstje\public\css\img\kado1.jpg");
+}
+
+.jumbotron {
+    background: inherit;
+    
+}
+
+.btn {
+    background-color: rgb(221, 185, 138);
+    border:none;
+    color: black;
+}

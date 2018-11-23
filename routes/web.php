@@ -27,3 +27,7 @@ Route::get('/lijstje', function () {
     return view('lijstje');
 });
 
+Route::get('/lijstje2', function () {
+    return view('lijstje2');
+});
+

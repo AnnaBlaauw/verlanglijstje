@@ -62,7 +62,9 @@ $(document).ready(function(){
     });
 
     @extends('layouts.app')
-    
+
+
+
     // Set search input value on click of result item
     $(document).on("click", ".result p", function(){
         $(this).parents(".search-box").find('input[type="text"]').val($(this).text());
@@ -72,10 +74,14 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
+
+    @section('content')
     <div class="search-box">
-        Gedoneerde cadeau's
+        stel je lijstje samen
         <input type="text" autocomplete="off" placeholder="zoek cadeautjes" />
         <div class="result"></div>
     </div>
+
+    @endsection
 </body>
 </html>
