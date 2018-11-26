@@ -1,12 +1,14 @@
 .navbar-laravel {
-    background-color: burlywood;
+    background-color: #9F7754;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
    
   }
 
-body {
+body, html {
 
-background-color: url("C:\verlanglijstje\public\css\img\kado1.jpg");
+background-image: url('/img/kado1.jpg');
+font-family: 'Lora', serif;
+font-weight: bold; 
 }
 
 .jumbotron {
@@ -15,7 +17,7 @@ background-color: url("C:\verlanglijstje\public\css\img\kado1.jpg");
 }
 
 .btn {
-    background-color: rgb(221, 185, 138);
+    background-color: #9F7754;
     border:none;
     color: black;
 }
