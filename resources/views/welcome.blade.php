@@ -57,7 +57,7 @@
                         </div>
                         <div class="col-md-4">
                           <div class="card mb-4 shadow-sm">
-                            <img class="card-img-top" img src="http://colbo.nl/wp-content/uploads/2017/02/ravensburger-puzzel-afrikaanse-wildernis-1000.jpg" alt="Card image cap">
+                            <img class="card-img-top" img src="https://colbo.nl/wp-content/uploads/2017/02/ravensburger-puzzel-afrikaanse-wildernis-1000.jpg" alt="Card image cap">
                             <div class="card-body">
                               <p class="card-text">Leuke dierenpuzzel van duizend stukjes.</p>
                               <div class="d-flex justify-content-between align-items-center">
